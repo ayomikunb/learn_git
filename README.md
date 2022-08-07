@@ -4,3 +4,8 @@ GIT project
 ![Screenshot (63)](https://user-images.githubusercontent.com/110600290/183300307-6f3373e8-f7fc-4b14-8b25-1f14cb2edf80.png)
 ![Screenshot (64)](https://user-images.githubusercontent.com/110600290/183300423-bc82e696-cc69-428d-84e9-df84a070b6a2.png)
 ![Screenshot (65)](https://user-images.githubusercontent.com/110600290/183300429-33cbb407-f98a-4a25-8865-408dd918c5ab.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/110600290/183300497-622bae83-57fa-469e-83da-4f98ffb37c1f.png)
+![Screenshot (67)](https://user-images.githubusercontent.com/110600290/183300500-338e0ec4-1153-41d4-af15-0c7d61a0298b.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/110600290/183300518-69c15892-d702-4baf-b3fa-2f80a19a1b20.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/110600290/183300519-1698e458-176f-4fca-92f0-ef69ee5f5964.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/110600290/183300526-1bb74e7b-7f4f-47f6-9bc9-aa379c1eef16.png)
